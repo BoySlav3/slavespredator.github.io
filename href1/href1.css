@@ -1,0 +1,28 @@
+body{
+    background: url(file1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    color: #3A3B3C;
+}
+.container{
+    background-color: powderblue;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 48px;
+    box-sizing: border-box;
+}
+.box{
+    text-align: center;
+    height: auto;
+    font-size: 11px;
+}
+.href_wiki{
+    text-align: left;
+    color: gray;
+}
